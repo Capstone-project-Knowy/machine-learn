@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning side of Knowy: Unlock your curiosity with Knowy
 
-![KnowyLogo](https://github.com/MarcelTRG/Git-Test/blob/master/Asset/Logo%20Knowy.png)
+![KnowyLogo](https://github.com/MarcelTRG/Git-Test/blob/master/Asset/MachineLearnXKnowy-transformed.png)
 
 
 In this repository you'll see the progress we made from the Machine Learning side for Knowy.
